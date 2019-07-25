@@ -1,6 +1,6 @@
 * Add MinMax command
 * Add GetEnableCode command
-* Add EnableCode struct and protected ReverseEnableCode method
+* Add EnableCode struct and protected ReverseEnableCode method?
 * More fully test serial IO process?
 * Methods to get and set all sensor and IO ports
   * Specific functions for commonly used: DM, TA, FS, SE
